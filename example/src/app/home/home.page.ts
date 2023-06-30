@@ -1,6 +1,6 @@
 import { AfterViewInit, Component } from '@angular/core';
 import { AlertController } from '@ionic/angular';
-import { Glassfy, GlassfyPermission, GlassfyPermissions, GlassfyOffering, GlassfyExtraProperty } from 'capacitor-plugin-glassfy';
+import { Glassfy, GlassfyPermission, GlassfyPermissions, GlassfyOffering, GlassfyExtraProperty } from 'capacitor-plugin-glassfy-ryland';
 
 @Component({
   selector: 'app-home',

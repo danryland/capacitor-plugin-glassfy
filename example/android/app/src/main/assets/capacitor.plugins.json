@@ -16,7 +16,7 @@
 		"classpath": "com.capacitorjs.plugins.statusbar.StatusBarPlugin"
 	},
 	{
-		"pkg": "capacitor-plugin-glassfy",
+		"pkg": "capacitor-plugin-glassfy-ryland",
 		"classpath": "io.glassfy.capacitor.plugin.GlassfyPlugin"
 	}
 ]

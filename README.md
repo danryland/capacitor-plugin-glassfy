@@ -1,6 +1,6 @@
 <img src="https://media.glassfy.io/banner_purple.png" />
 
-[![npm](https://img.shields.io/npm/v/capacitor-plugin-glassfy)](https://www.npmjs.com/package/capacitor-plugin-glassfy)
+[![npm](https://img.shields.io/npm/v/capacitor-plugin-glassfy-ryland)](https://www.npmjs.com/package/capacitor-plugin-glassfy-ryland)
 
 > **Warning** <br/>
 > These plugin is for Capacitor 5. For Capacitor 4, use the 2.x version.
@@ -19,7 +19,7 @@ Check the documentation at [docs.glassfy.io](https://docs.glassfy.io/get-started
 ## Plugin Install
 
 ```bash
-npm install capacitor-plugin-glassfy
+npm install capacitor-plugin-glassfy-ryland
 npx cap sync
 ```
 
