@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorPluginGlassfy.podspec"
+    "CapacitorPluginGlassfyRyland.podspec"
   ],
   "author": "Glassfy",
   "license": "MIT",
